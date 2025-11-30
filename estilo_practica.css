@@ -1,0 +1,21 @@
+h1{color:blue; background-color: greenyellow;}
+
+li {color:red; font-size: smaller; font-style: italic;}
+
+table {border-collapse: separate; border-spacing: 5px 10px; background-color: pink;}
+
+@media screen and (max-width: 480px) {
+	p {display:none;}
+}	
+
+p span{color: red;}
+
+.miestilo{color: brown;}
+
+.otroestilo{color: yellow;}
+
+@media screen and (max-width: 480px) {
+	img {display:none;}
+}
+
+
