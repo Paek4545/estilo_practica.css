@@ -8,6 +8,16 @@ table {border-collapse: separate; border-spacing: 5px 10px; background-color: pi
 	p {display:none;}
 }	
 
+@media screen and (max-width: 480px){
+	table {color:green;}
+}
+
+
+
+ .olakease{background:black;
+ 	color:white;
+ }
+
 p span{color: red;}
 
 .miestilo{color: brown;}
@@ -17,5 +27,4 @@ p span{color: red;}
 @media screen and (max-width: 480px) {
 	img {display:none;}
 }
-
 
